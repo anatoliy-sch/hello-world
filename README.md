@@ -1,3 +1,3 @@
 # hello-world
 
-Изменение 06-10-2020
+Change completed 06-10-2020
